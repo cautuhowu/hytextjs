@@ -12,7 +12,6 @@ You can download or clone the repository to your device to get started.
 
 You can set up your project with the following structure:
 
-    ```js
     import { Hytext } from "./hytext/core/hytext.js";
 
     const app = new Hytext();
@@ -23,7 +22,6 @@ You can set up your project with the following structure:
     });
 
     app.body(el => {});
-    ```
 
 ## **Recommendation**
 For styling, it is recommended to use an external CSS file. Hytext.js's current styling features do not yet support all CSS features available in native CSS.
@@ -48,7 +46,6 @@ Bạn có thể tải xuống hoặc clone repository về thiết bị của m�
 
 Bạn có thể thiết lập project của mình với cấu trúc sau:
 
-    ```js
     import { Hytext } from "./hytext/core/hytext.js";
 
     const app = new Hytext();
@@ -59,7 +56,6 @@ Bạn có thể thiết lập project của mình với cấu trúc sau:
     });
 
     app.body(el => {});
-    ```
 
 ## **Khuyến nghị**
 
